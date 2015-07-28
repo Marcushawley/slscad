@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene_description align="t" cut="201503040913-441466" version="2014.04" unit="1">
+	<models>
+		<import transformation="1.0 0.0 0.0 0.0 6.12323399574e-17 1.0 0.0 -1.0 6.12323399574e-17 0.0 0.0 0.0" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="Frame.iam">
+			<child node="Frame.iam:Frame">
+			</child>
+		</import>
+		<group label="Frame.iam" name="Frame.iam:Frame" has_original_label="1">
+			<child node="Frame.iam:Frame0001:1">
+			</child>
+			<child node="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:1">
+			</child>
+			<child node="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:2">
+			</child>
+			<child node="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:4">
+			</child>
+			<child node="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:5">
+			</child>
+		</group>
+		<group name="Frame.iam:Frame0001:1">
+			<child node="Frame.iam:8020 Metric  00000045:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000046:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000047:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000048:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000049:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000050:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000051:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000052:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000053:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000054:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000055:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000057:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000058:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000059:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000060:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000061:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000062:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000063:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000064:1">
+			</child>
+			<child node="Frame.iam:8020 Metric  00000065:1">
+			</child>
+		</group>
+		<group transformation="-1.0 0.0 3.78956125739e-16 3.78956125739e-16 0.0 1.0 0.0 1.0 0.0 -5.67284916555 22.5070491646 98.0933234741" name="Frame.iam:8020 Metric  00000045:1">
+			<child node="Frame.iam:8020 Metric  00000045:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="0" name="Frame.iam:8020 Metric  00000045:1_BODY" transformation="-1.0 3.78956125739e-16 0.0 0.0 0.0 1.0 3.78956125739e-16 1.0 0.0 -5.67284916555 -98.0933234741 -22.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 -1.0 0.0 -1.0 0.0 98.3272958767 97.5070491646 98.0929156502" name="Frame.iam:8020 Metric  00000046:1">
+			<child node="Frame.iam:8020 Metric  00000046:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="1" name="Frame.iam:8020 Metric  00000046:1_BODY" transformation="-1.0 -0.0 -0.0 -0.0 -0.0 -1.0 -0.0 -1.0 -0.0 98.3272958767 98.0929156502 97.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 -1.0 0.0 -1.0 0.0 98.3272958767 97.5070491646 68.0929156502" name="Frame.iam:8020 Metric  00000047:1">
+			<child node="Frame.iam:8020 Metric  00000047:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="2" name="Frame.iam:8020 Metric  00000047:1_BODY" transformation="-1.0 -0.0 -0.0 -0.0 -0.0 -1.0 -0.0 -1.0 -0.0 98.3272958767 68.0929156502 97.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 -1.0 0.0 -1.0 0.0 98.3272958767 97.5070491646 8.09291565019" name="Frame.iam:8020 Metric  00000048:1">
+			<child node="Frame.iam:8020 Metric  00000048:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="3" name="Frame.iam:8020 Metric  00000048:1_BODY" transformation="-1.0 -0.0 -0.0 -0.0 -0.0 -1.0 -0.0 -1.0 -0.0 98.3272958767 8.09291565019 97.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 -1.0 0.0 -1.0 0.0 -5.67284916555 97.5070491646 8.09291565019" name="Frame.iam:8020 Metric  00000049:1">
+			<child node="Frame.iam:8020 Metric  00000049:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="4" name="Frame.iam:8020 Metric  00000049:1_BODY" transformation="-1.0 -0.0 -0.0 -0.0 -0.0 -1.0 -0.0 -1.0 -0.0 -5.67284916555 8.09291565019 97.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 -1.0 0.0 -1.0 0.0 -5.67284916555 97.5070491646 68.0929156502" name="Frame.iam:8020 Metric  00000050:1">
+			<child node="Frame.iam:8020 Metric  00000050:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="5" name="Frame.iam:8020 Metric  00000050:1_BODY" transformation="-1.0 -0.0 -0.0 -0.0 -0.0 -1.0 -0.0 -1.0 -0.0 -5.67284916555 68.0929156502 97.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 95.5070491646 98.0929156502" name="Frame.iam:8020 Metric  00000051:1">
+			<child node="Frame.iam:8020 Metric  00000051:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="6" name="Frame.iam:8020 Metric  00000051:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 98.0929156502 -95.5070491646 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 95.5070491646 68.0929156502" name="Frame.iam:8020 Metric  00000052:1">
+			<child node="Frame.iam:8020 Metric  00000052:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="7" name="Frame.iam:8020 Metric  00000052:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 68.0929156502 -95.5070491646 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 95.5070491646 8.09291565019" name="Frame.iam:8020 Metric  00000053:1">
+			<child node="Frame.iam:8020 Metric  00000053:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="8" name="Frame.iam:8020 Metric  00000053:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 8.09291565019 -95.5070491646 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 96.3272958767 24.5074569885 68.0930606924" name="Frame.iam:8020 Metric  00000054:1">
+			<child node="Frame.iam:8020 Metric  00000054:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="9" name="Frame.iam:8020 Metric  00000054:1_BODY" transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -68.0930606924 -24.5074569885 96.3272958767" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 96.3272958767 24.5074569885 8.09306069239" name="Frame.iam:8020 Metric  00000055:1">
+			<child node="Frame.iam:8020 Metric  00000055:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="10" name="Frame.iam:8020 Metric  00000055:1_BODY" transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -8.09306069239 -24.5074569885 96.3272958767" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 24.5074569885 98.0929156502" name="Frame.iam:8020 Metric  00000057:1">
+			<child node="Frame.iam:8020 Metric  00000057:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="11" name="Frame.iam:8020 Metric  00000057:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 98.0929156502 -24.5074569885 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 3.78956125739e-16 0.0 1.0 0.0 -3.78956125739e-16 0.0 -1.0 -5.67284916555 95.5070491646 96.0929156502" name="Frame.iam:8020 Metric  00000058:1">
+			<child node="Frame.iam:8020 Metric  00000058:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="12" name="Frame.iam:8020 Metric  00000058:1_BODY" transformation="-1.0 0.0 -3.78956125739e-16 0.0 1.0 0.0 3.78956125739e-16 0.0 -1.0 -5.67284916555 -95.5070491646 96.0929156502" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 3.78956125739e-16 0.0 1.0 0.0 -3.78956125739e-16 0.0 -1.0 -5.67284916555 24.5074569885 96.0929156502" name="Frame.iam:8020 Metric  00000059:1">
+			<child node="Frame.iam:8020 Metric  00000059:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="13" name="Frame.iam:8020 Metric  00000059:1_BODY" transformation="-1.0 0.0 -3.78956125739e-16 0.0 1.0 0.0 3.78956125739e-16 0.0 -1.0 -5.67284916555 -24.5074569885 96.0929156502" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="1.0 0.0 -1.89478062869e-16 0.0 1.0 0.0 1.89478062869e-16 0.0 1.0 98.3274409189 95.5070491646 -53.9070843498" name="Frame.iam:8020 Metric  00000060:1">
+			<child node="Frame.iam:8020 Metric  00000060:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="14" name="Frame.iam:8020 Metric  00000060:1_BODY" transformation="1.0 0.0 1.89478062869e-16 0.0 1.0 0.0 -1.89478062869e-16 0.0 1.0 -98.3274409189 -95.5070491646 53.9070843498" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="1.0 0.0 -1.89478062869e-16 0.0 1.0 0.0 1.89478062869e-16 0.0 1.0 98.3274409189 24.5074569885 -53.9070843498" name="Frame.iam:8020 Metric  00000061:1">
+			<child node="Frame.iam:8020 Metric  00000061:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="15" name="Frame.iam:8020 Metric  00000061:1_BODY" transformation="1.0 0.0 1.89478062869e-16 0.0 1.0 0.0 -1.89478062869e-16 0.0 1.0 -98.3274409189 -24.5074569885 53.9070843498" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 -5.67284916555 22.5070491646 -51.9066765259" name="Frame.iam:8020 Metric  00000062:1">
+			<child node="Frame.iam:8020 Metric  00000062:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="16" name="Frame.iam:8020 Metric  00000062:1_BODY" transformation="-1.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 -5.67284916555 51.9066765259 -22.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 95.5070491646 -51.9070843498" name="Frame.iam:8020 Metric  00000063:1">
+			<child node="Frame.iam:8020 Metric  00000063:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="17" name="Frame.iam:8020 Metric  00000063:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 -51.9070843498 -95.5070491646 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 98.3272958767 22.5070491646 -51.9066765259" name="Frame.iam:8020 Metric  00000064:1">
+			<child node="Frame.iam:8020 Metric  00000064:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="18" name="Frame.iam:8020 Metric  00000064:1_BODY" transformation="-1.0 0.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 98.3272958767 51.9066765259 -22.5070491646" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.0 0.0 -1.0 0.0 1.0 0.0 1.0 0.0 0.0 -3.67270412335 24.5074569885 -51.9070843498" name="Frame.iam:8020 Metric  00000065:1">
+			<child node="Frame.iam:8020 Metric  00000065:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="19" name="Frame.iam:8020 Metric  00000065:1_BODY" transformation="0.0 0.0 1.0 0.0 1.0 0.0 -1.0 0.0 0.0 -51.9070843498 -24.5074569885 3.67270412335" original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-0.313500726985 0.949587960212 2.21191326587e-16 -0.949587960212 -0.313500726985 2.92671506994e-16 3.47260981026e-16 -1.18287890419e-16 1.0 -5.67284916555 24.5074569885 -61.5570843492" name="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:1">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1">
+			</child>
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1">
+			</child>
+		</group>
+		<group original_world_transform="-0.313500726985 0.949587960212 2.21191326587e-16 -0.949587960212 -0.313500726985 2.92671506994e-16 3.47260981026e-16 -1.18287890419e-16 1.0 -5.67284916555 24.5074569885 -61.5570843492" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="20" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY" transformation="-0.313500726985 -0.949587960212 3.47260981026e-16 0.949587960212 -0.313500726985 -1.18287890419e-16 2.21191326587e-16 2.92671506994e-16 1.0 -25.0504284292 2.29623631477 61.5570843492" original_world_transform="1.0 -4.10767688706e-32 1.47911419729e-31 1.11022302463e-16 1.0 4.93038065763e-32 0.0 -2.46519032882e-32 1.0 -3.5527136788e-15 7.1054273576e-15 0.0">
+		</lod_group>
+		<group original_world_transform="-0.313500726985 0.949587960212 3.75003735133e-17 2.89673733697e-16 5.61428270189e-17 1.0 0.949587960212 0.313500726985 -2.92671506994e-16 -5.67284916555 24.5074569885 -61.3570843492" transformation="1.0 2.77555756156e-16 -1.83690953073e-16 1.83690953073e-16 4.93038065763e-32 1.0 2.77555756156e-16 -1.0 4.93038065763e-32 1.7763568394e-14 1.33226762955e-15 0.2" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1">
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="21" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY" transformation="-0.313500726985 2.89673733697e-16 0.949587960212 0.949587960212 5.61428270189e-17 0.313500726985 3.75003735133e-17 1.0 -2.92671506994e-16 -25.0504284292 61.3570843492 -2.29623631477" original_world_transform="1.0 0.0 0.0 0.0 1.0 1.23259516441e-32 -1.47911419729e-31 -7.39557098645e-32 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group original_world_transform="-0.965925826289 0.258819045103 3.66043508881e-16 -0.258819045103 -0.965925826289 9.80810625995e-17 3.78956125739e-16 4.93038065763e-32 1.0 -5.67284916555 24.5074569885 -59.8070843492" transformation="0.548589897859 0.836091576305 -4.93038065763e-32 -0.836091576305 0.548589897859 1.22460635382e-16 1.02388305672e-16 -6.7180667456e-17 1.0 0.0 1.7763568394e-15 1.75" name="Frame.iam:21.1846 THREADED STUD 10mm:1">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 1.86839795243e-47 0.0 8.54618830726e-48 1.0 1.02259685567e-32 0.0 0.0 1.0 3.5527136788e-15 -3.5527136788e-15 0.0" transformation="-0.965925826289 -0.258819045103 3.78956125739e-16 0.258819045103 -0.965925826289 2.25519202008e-32 3.66043508881e-16 9.80810625995e-17 1.0 -11.8225481333 22.2041442379 59.8070843492" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-1">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-2">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-3">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="22" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-1">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-2">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-3">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-4">
+		</lod_group>
+		<group original_world_transform="-2.26176117032e-16 9.99831661752e-17 -1.0 0.149474353021 0.988765603057 6.50523868367e-17 0.988765603057 -0.149474353021 -2.38580083831e-16 -5.67284916555 24.5074569885 -56.4770843492" transformation="-5.53421386465e-17 -1.09242184655e-16 -1.0 0.892059593797 -0.451917781365 -1.23259516441e-32 -0.451917781365 -0.892059593797 1.22460635382e-16 0.0 1.7763568394e-15 5.08" name="Frame.iam:M10 HEX NUT DIN 934:1">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -2.77555756156e-17 0.0 0.0 1.0 -1.23259516441e-32 -9.86076131526e-32 2.46519032882e-32 1.0 1.7763568394e-15 3.5527136788e-15 1.42108547152e-14" transformation="-2.26176117032e-16 0.149474353021 0.988765603057 9.99831661752e-17 0.988765603057 -0.149474353021 -1.0 6.50523868367e-17 -2.38580083831e-16 -56.4770843492 -23.3841850299 9.27235440377" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-1">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-2">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-3">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-1">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-2">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-3">
+		</lod_group>
+		<group transformation="0.548589897859 -0.836091576305 -1.55744548393e-18 0.836091576305 0.548589897859 -2.25601679716e-16 1.89478062869e-16 1.22460635382e-16 1.0 98.3274409189 95.5070491646 -61.5570843498" name="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:2">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-3">
+			</child>
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-6">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1-5">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1-4">
+			</child>
+		</group>
+		<group original_world_transform="0.548589897859 -0.836091576305 -1.55744548393e-18 0.836091576305 0.548589897859 -2.25601679716e-16 1.89478062869e-16 1.22460635382e-16 1.0 98.3274409189 95.5070491646 -61.5570843498" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-3">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="20" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-2" transformation="-0.313500726985 -0.949587960212 3.47260981026e-16 0.949587960212 -0.313500726985 -1.18287890419e-16 2.21191326587e-16 2.92671506994e-16 1.0 -25.0504284292 2.29623631477 61.5570843492" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10">
+		</lod_group>
+		<group original_world_transform="0.548589897859 -0.836091576305 -1.85248398557e-16 2.90249064053e-16 -3.11218231258e-17 1.0 -0.836091576305 -0.548589897859 2.25601679716e-16 98.3274409189 95.5070491646 -61.3570843498" transformation="1.0 2.22044604925e-16 -1.83690953073e-16 1.83690953073e-16 4.93038065763e-32 1.0 2.77555756156e-16 -1.0 0.0 2.13162820728e-14 2.84217094304e-14 0.2" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-6">
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="21" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-2" transformation="-0.313500726985 2.89673733697e-16 0.949587960212 0.949587960212 5.61428270189e-17 0.313500726985 3.75003735133e-17 1.0 -2.92671506994e-16 -25.0504284292 61.3570843492 -2.29623631477" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10">
+		</lod_group>
+		<group original_world_transform="1.0 9.54791801178e-15 -1.89478062869e-16 -9.60342916301e-15 1.0 1.52841800387e-30 1.89478062869e-16 2.21867129593e-31 1.0 98.3274409189 95.5070491646 -59.8070843498" transformation="0.548589897859 0.836091576305 0.0 -0.836091576305 0.548589897859 1.22460635382e-16 1.02388305672e-16 -6.7180667456e-17 1.0 0.0 0.0 1.75" name="Frame.iam:21.1846 THREADED STUD 10mm:1-5">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-5">
+			</child>
+		</group>
+		<group original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99989391503e-10" transformation="-0.965925826289 -0.258819045103 3.78956125739e-16 0.258819045103 -0.965925826289 4.93038065763e-32 3.66043508881e-16 9.80810625995e-17 1.0 -11.8225481333 22.2041442379 59.8070843492" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-5">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-6">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-7">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-8">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-9">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="22" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99989391503e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-6">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99989391503e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-7">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99989391503e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-8">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99989391503e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-9">
+		</lod_group>
+		<group original_world_transform="-3.11174671424e-16 -1.36118698367e-16 -1.0 0.111530231263 -0.993761041455 1.00564076384e-16 -0.993761041455 -0.111530231263 3.24414615457e-16 98.3274409189 95.5070491646 -56.4770843498" transformation="-5.53421386465e-17 -1.09242184655e-16 -1.0 0.892059593797 -0.451917781365 -7.39557098645e-32 -0.451917781365 -0.892059593797 1.22460635382e-16 0.0 0.0 5.08" name="Frame.iam:M10 HEX NUT DIN 934:1-4">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-4">
+			</child>
+		</group>
+		<group original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10" transformation="-2.26176117032e-16 0.149474353021 0.988765603057 9.99831661752e-17 0.988765603057 -0.149474353021 -1.0 6.50523868367e-17 -2.38580083831e-16 -56.4770843492 -23.3841850299 9.27235440377" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-4">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-5">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-6">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-7">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-5">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-6">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" original_world_transform="-0.965925826289 -0.258819045103 5.61977880179e-16 0.258819045103 -0.965925826289 -4.90405312997e-17 5.55521571751e-16 9.80810625995e-17 1.0 86.5048927855 117.711193402 -5.99975180648e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-7">
+		</lod_group>
+		<group transformation="-0.893138575957 0.449781596041 4.40848640165e-16 -0.449781596041 -0.893138575957 1.03266823608e-16 4.4018644343e-16 -1.06054021205e-16 1.0 -5.67284916555 95.5070491646 -61.5570843492" name="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:4">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-6">
+			</child>
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-12">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1-10">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1-8">
+			</child>
+		</group>
+		<group original_world_transform="-0.893138575957 0.449781596041 4.40848640165e-16 -0.449781596041 -0.893138575957 1.03266823608e-16 4.4018644343e-16 -1.06054021205e-16 1.0 -5.67284916555 95.5070491646 -61.5570843492" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-6">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="20" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-4" transformation="-0.313500726985 -0.949587960212 3.47260981026e-16 0.949587960212 -0.313500726985 -1.18287890419e-16 2.21191326587e-16 2.92671506994e-16 1.0 -25.0504284292 2.29623631477 61.5570843492" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15">
+		</lod_group>
+		<group original_world_transform="-0.893138575957 0.449781596041 2.57157687091e-16 2.76124967186e-16 -2.3433211153e-17 1.0 0.449781596041 0.893138575957 -1.03266823608e-16 -5.67284916555 95.5070491646 -61.3570843492" transformation="1.0 2.77555756156e-16 -1.83690953073e-16 1.83690953073e-16 4.93038065763e-32 1.0 2.77555756156e-16 -1.0 2.46519032882e-32 1.42108547152e-14 1.42108547152e-14 0.2" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-12">
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="21" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-4" transformation="-0.313500726985 2.89673733697e-16 0.949587960212 0.949587960212 5.61428270189e-17 0.313500726985 3.75003735133e-17 1.0 -2.92671506994e-16 -25.0504284292 61.3570843492 -2.29623631477" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15">
+		</lod_group>
+		<group original_world_transform="-0.866025403784 -0.5 3.28185631809e-16 0.5 -0.866025403784 -1.89478062869e-16 3.78956125739e-16 2.46519032882e-32 1.0 -5.67284916555 95.5070491646 -59.8070843492" transformation="0.548589897859 0.836091576305 4.93038065763e-32 -0.836091576305 0.548589897859 1.22460635382e-16 1.02388305672e-16 -6.7180667456e-17 1.0 0.0 0.0 1.75" name="Frame.iam:21.1846 THREADED STUD 10mm:1-10">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-10">
+			</child>
+		</group>
+		<group original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15" transformation="-0.965925826289 -0.258819045103 3.78956125739e-16 0.258819045103 -0.965925826289 -4.93038065763e-32 3.66043508881e-16 9.80810625995e-17 1.0 -11.8225481333 22.2041442379 59.8070843492" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-10">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-11">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-12">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-13">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-14">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="22" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-11">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-12">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-13">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 -7.1054273576e-15" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-14">
+		</lod_group>
+		<group original_world_transform="-3.41623120359e-16 1.78730554993e-16 -1.0 -0.593468534291 0.80485719156 3.46595145058e-16 0.80485719156 0.593468534291 -1.6888686472e-16 -5.67284916555 95.5070491646 -56.4770843492" transformation="-5.53421386465e-17 -1.09242184655e-16 -1.0 0.892059593797 -0.451917781365 4.93038065763e-32 -0.451917781365 -0.892059593797 1.22460635382e-16 0.0 0.0 5.08" name="Frame.iam:M10 HEX NUT DIN 934:1-8">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-8">
+			</child>
+		</group>
+		<group original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 7.1054273576e-15" transformation="-2.26176117032e-16 0.149474353021 0.988765603057 9.99831661752e-17 0.988765603057 -0.149474353021 -1.0 6.50523868367e-17 -2.38580083831e-16 -56.4770843492 -23.3841850299 9.27235440377" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-8">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-9">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-10">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-11">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 7.1054273576e-15" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-9">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 7.1054273576e-15" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-10">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" original_world_transform="0.707106781186 0.707106781187 1.10993679457e-16 -0.707106781187 0.707106781186 2.67962446282e-16 1.10993679457e-16 -2.67962446282e-16 1.0 15.6678499743 82.188970252 7.1054273576e-15" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-11">
+		</lod_group>
+		<group transformation="0.893138575957 -0.449781596041 -6.68418615743e-17 0.449781596041 0.893138575957 -1.52404412988e-16 1.28247745178e-16 1.06054021205e-16 1.0 98.3274409189 24.5074569885 -61.5570843498" name="Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:5">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-9">
+			</child>
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-18">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1-15">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1-12">
+			</child>
+		</group>
+		<group original_world_transform="0.893138575957 -0.449781596041 -6.68418615743e-17 0.449781596041 0.893138575957 -1.52404412988e-16 1.28247745178e-16 1.06054021205e-16 1.0 98.3274409189 24.5074569885 -61.5570843498" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-9">
+			<child node="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-6">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="20" name="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-6" transformation="-0.313500726985 -0.949587960212 3.47260981026e-16 0.949587960212 -0.313500726985 -1.18287890419e-16 2.21191326587e-16 2.92671506994e-16 1.0 -25.0504284292 2.29623631477 61.5570843492" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10">
+		</lod_group>
+		<group original_world_transform="0.893138575957 -0.449781596041 -2.50532814648e-16 2.92309221422e-16 2.3433211153e-17 1.0 -0.449781596041 -0.893138575957 1.52404412988e-16 98.3274409189 24.5074569885 -61.3570843498" transformation="1.0 2.77555756156e-16 -1.83690953073e-16 1.83690953073e-16 4.93038065763e-32 1.0 2.77555756156e-16 -1.0 -2.46519032882e-32 1.42108547152e-14 0.0 0.2" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-18">
+			<child node="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-6">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="21" name="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-6" transformation="-0.313500726985 2.89673733697e-16 0.949587960212 0.949587960212 5.61428270189e-17 0.313500726985 3.75003735133e-17 1.0 -2.92671506994e-16 -25.0504284292 61.3570843492 -2.29623631477" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10">
+		</lod_group>
+		<group original_world_transform="0.866025403784 0.5 -1.64092815905e-16 -0.5 0.866025403784 9.47390314347e-17 1.89478062869e-16 -3.69778549322e-32 1.0 98.3274409189 24.5074569885 -59.8070843498" transformation="0.548589897859 0.836091576305 0.0 -0.836091576305 0.548589897859 1.22460635382e-16 1.02388305672e-16 -6.7180667456e-17 1.0 0.0 0.0 1.75" name="Frame.iam:21.1846 THREADED STUD 10mm:1-15">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-15">
+			</child>
+		</group>
+		<group original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10" transformation="-0.965925826289 -0.258819045103 3.78956125739e-16 0.258819045103 -0.965925826289 2.46519032882e-32 3.66043508881e-16 9.80810625995e-17 1.0 -11.8225481333 22.2041442379 59.8070843492" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-15">
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-16">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-17">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-18">
+			</child>
+			<child node="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-19">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="22" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-16">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-17">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-18">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99975180648e-10" name="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-19">
+		</lod_group>
+		<group original_world_transform="-2.26811068249e-16 -1.78730554993e-16 -1.0 0.593468534291 -0.80485719156 9.2473403033e-18 -0.80485719156 -0.593468534291 2.8862147991e-16 98.3274409189 24.5074569885 -56.4770843498" transformation="-5.53421386465e-17 -1.09242184655e-16 -1.0 0.892059593797 -0.451917781365 -4.93038065763e-32 -0.451917781365 -0.892059593797 1.22460635382e-16 -1.42108547152e-14 0.0 5.08" name="Frame.iam:M10 HEX NUT DIN 934:1-12">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-12">
+			</child>
+		</group>
+		<group original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99982286076e-10" transformation="-2.26176117032e-16 0.149474353021 0.988765603057 9.99831661752e-17 0.988765603057 -0.149474353021 -1.0 6.50523868367e-17 -2.38580083831e-16 -56.4770843492 -23.3841850299 9.27235440377" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-12">
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-13">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-14">
+			</child>
+			<child node="Frame.iam:M10 HEX NUT DIN 934:1_BODY-15">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99982286076e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-13">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99982286076e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-14">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" original_world_transform="-0.707106781187 -0.707106781186 5.1293734888e-16 0.707106781186 -0.707106781187 -1.33981223141e-16 4.57440509151e-16 2.67962446282e-16 1.0 76.986741779 37.8255359012 -5.99982286076e-10" name="Frame.iam:M10 HEX NUT DIN 934:1_BODY-15">
+		</lod_group>
+	</models>
+	<behaviors>
+	</behaviors>
+	<navigators default="Orbit">
+		<navigator type="Walk" name="Walk">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Orbit" name="Orbit">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Composite" name="Composite">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+	</navigators>
+	<model_imports>
+		<import src="Frame.a3g" apf_z_up="0" name="Frame.iam" original_apf_unit="cm" ids="Frame.iam|Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:1|Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:2|Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:4|Frame.iam:21.1846 LEVELING FOOT M10 WITH BORES:5|Frame.iam:21.1846 THREADED STUD 10mm:1|Frame.iam:21.1846 THREADED STUD 10mm:1-10|Frame.iam:21.1846 THREADED STUD 10mm:1-15|Frame.iam:21.1846 THREADED STUD 10mm:1-5|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-1|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-10|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-11|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-12|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-13|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-14|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-15|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-16|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-17|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-18|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-19|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-2|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-3|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-4|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-5|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-6|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-7|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-8|Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-9|Frame.iam:8020 Metric  00000045:1|Frame.iam:8020 Metric  00000045:1_BODY|Frame.iam:8020 Metric  00000046:1|Frame.iam:8020 Metric  00000046:1_BODY|Frame.iam:8020 Metric  00000047:1|Frame.iam:8020 Metric  00000047:1_BODY|Frame.iam:8020 Metric  00000048:1|Frame.iam:8020 Metric  00000048:1_BODY|Frame.iam:8020 Metric  00000049:1|Frame.iam:8020 Metric  00000049:1_BODY|Frame.iam:8020 Metric  00000050:1|Frame.iam:8020 Metric  00000050:1_BODY|Frame.iam:8020 Metric  00000051:1|Frame.iam:8020 Metric  00000051:1_BODY|Frame.iam:8020 Metric  00000052:1|Frame.iam:8020 Metric  00000052:1_BODY|Frame.iam:8020 Metric  00000053:1|Frame.iam:8020 Metric  00000053:1_BODY|Frame.iam:8020 Metric  00000054:1|Frame.iam:8020 Metric  00000054:1_BODY|Frame.iam:8020 Metric  00000055:1|Frame.iam:8020 Metric  00000055:1_BODY|Frame.iam:8020 Metric  00000057:1|Frame.iam:8020 Metric  00000057:1_BODY|Frame.iam:8020 Metric  00000058:1|Frame.iam:8020 Metric  00000058:1_BODY|Frame.iam:8020 Metric  00000059:1|Frame.iam:8020 Metric  00000059:1_BODY|Frame.iam:8020 Metric  00000060:1|Frame.iam:8020 Metric  00000060:1_BODY|Frame.iam:8020 Metric  00000061:1|Frame.iam:8020 Metric  00000061:1_BODY|Frame.iam:8020 Metric  00000062:1|Frame.iam:8020 Metric  00000062:1_BODY|Frame.iam:8020 Metric  00000063:1|Frame.iam:8020 Metric  00000063:1_BODY|Frame.iam:8020 Metric  00000064:1|Frame.iam:8020 Metric  00000064:1_BODY|Frame.iam:8020 Metric  00000065:1|Frame.iam:8020 Metric  00000065:1_BODY|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-3|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-6|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1-9|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-2|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-4|Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-6|Frame.iam:Frame|Frame.iam:Frame0001:1|Frame.iam:M10 HEX NUT DIN 934:1|Frame.iam:M10 HEX NUT DIN 934:1-12|Frame.iam:M10 HEX NUT DIN 934:1-4|Frame.iam:M10 HEX NUT DIN 934:1-8|Frame.iam:M10 HEX NUT DIN 934:1_BODY|Frame.iam:M10 HEX NUT DIN 934:1_BODY-1|Frame.iam:M10 HEX NUT DIN 934:1_BODY-10|Frame.iam:M10 HEX NUT DIN 934:1_BODY-11|Frame.iam:M10 HEX NUT DIN 934:1_BODY-12|Frame.iam:M10 HEX NUT DIN 934:1_BODY-13|Frame.iam:M10 HEX NUT DIN 934:1_BODY-14|Frame.iam:M10 HEX NUT DIN 934:1_BODY-15|Frame.iam:M10 HEX NUT DIN 934:1_BODY-2|Frame.iam:M10 HEX NUT DIN 934:1_BODY-3|Frame.iam:M10 HEX NUT DIN 934:1_BODY-4|Frame.iam:M10 HEX NUT DIN 934:1_BODY-5|Frame.iam:M10 HEX NUT DIN 934:1_BODY-6|Frame.iam:M10 HEX NUT DIN 934:1_BODY-7|Frame.iam:M10 HEX NUT DIN 934:1_BODY-8|Frame.iam:M10 HEX NUT DIN 934:1_BODY-9|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-12|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-18|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1-6|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-2|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-4|Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-6" original_timestamp="1437937594.47" translation_state="2" import_timestamp="1437938303.62" original="C:\Users\myhome\Documents\Inventor\Printer\Frame.iam" unit="cm" object_based="1">
+			<import_setting id="Inventor">
+				<parameter type="string" name="animations_to_import" value="Showcase">
+				</parameter>
+				<parameter type="double" name="create_shots" value="1">
+				</parameter>
+				<parameter type="double" name="import_animations" value="0">
+				</parameter>
+				<parameter type="double" name="import_representations" value="1">
+				</parameter>
+				<parameter type="string" name="project_file" value="">
+				</parameter>
+				<parameter type="string" name="shots_to_create" value="34View|TrackLeft">
+				</parameter>
+				<parameter type="string" name="tessellation_file" value="001-All-Purpose.j">
+				</parameter>
+				<parameter type="string" name="up_axis" value="Auto">
+				</parameter>
+				<parameter type="double" name="use_project_file" value="0">
+				</parameter>
+				<parameter type="double" name="use_steel_settings_on_import" value="0">
+				</parameter>
+			</import_setting>
+		</import>
+	</model_imports>
+	<materials>
+		<material label="RenderStyle_372" type="APF" ids="Frame.iam" name="RenderStyle_372">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.678431 0.768627 0.811765 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="affineMatrix" name="diffuseProjMatrix" value="58.666667 0.000000 0.000000 0.000000 58.666667 0.000000 0.000000 0.000000 58.666667 -0.000000 -0.000000 -96.800000">
+			</parameter>
+			<parameter type="string" name="diffuseProjection" value="cylinder">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatU" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatV" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="texture">
+			</parameter>
+			<parameter type="string" name="diffuseTexture" value="c:\users\myhome\appdata\local\temp\Autodesk Showcase 2016 Working Directory-7708\thread_4x2.bmp|C:\Program Files\Autodesk\Showcase 2016\bin\Aruba\textures\thread_4x2.bmp">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.700000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="0.886275 0.937255 0.913725">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="none">
+			</parameter>
+		</material>
+		<material label="RenderStyle_381" type="APF" ids="Frame.iam" name="RenderStyle_381">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.678431 0.768627 0.811765 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="affineMatrix" name="diffuseProjMatrix" value="0.000000 0.000000 5.333333 0.000000 5.333333 0.000000 -5.333333 0.000000 0.000000 -0.000000 0.000000 -4.266667">
+			</parameter>
+			<parameter type="string" name="diffuseProjection" value="cylinder">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatU" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatV" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="texture">
+			</parameter>
+			<parameter type="string" name="diffuseTexture" value="c:\users\myhome\appdata\local\temp\Autodesk Showcase 2016 Working Directory-7708\thread_4x2.bmp|C:\Program Files\Autodesk\Showcase 2016\bin\Aruba\textures\thread_4x2.bmp">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.700000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="0.886275 0.937255 0.913725">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="none">
+			</parameter>
+		</material>
+		<material label="Zinc" type="APF" ids="Frame.iam" name="Zinc">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.678431 0.768627 0.811765 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="color">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.700000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="0.886275 0.937255 0.913725">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="none">
+			</parameter>
+		</material>
+	</materials>
+	<materials src="materials.adsklib">
+		<material label="Aluminum - Flat" id="9E3DFE2B-F8F4-42CF-858D-C62567BE1941" name="Aluminum - Flat" ids="Frame.iam">
+		</material>
+		<material label="Default" id="CB376A1B-3424-47CE-8E18-E3ABF19CA363" name="Default" ids="Frame.iam">
+		</material>
+		<material label="Light Gray" id="CD618041-B887-4DF7-97F0-0E02387945F0" name="Light Gray" ids="Frame.iam">
+		</material>
+		<material label="Rubber - Black - Version 1.1" id="51EEE93D-FB87-4B46-AC74-419D9B75064D" name="Rubber - Black - Version 1.1" ids="Frame.iam">
+		</material>
+		<material label="Zinc" id="09C3C8AB-75EF-4DA4-9036-57C5F68500AF" name="RenderStyle_369" ids="Frame.iam">
+		</material>
+	</materials>
+	<material_assignments>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000045:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000046:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000047:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000048:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000049:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000050:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000051:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000052:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000053:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000054:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000055:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000057:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000058:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000059:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000060:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000061:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000062:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000063:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000064:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="Frame.iam:8020 Metric  00000065:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Rubber - Black - Version 1.1" target="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Light Gray" target="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_372" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_381" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Rubber - Black - Version 1.1" target="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Light Gray" target="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_372" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_381" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Rubber - Black - Version 1.1" target="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Light Gray" target="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_372" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-12">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_381" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Rubber - Black - Version 1.1" target="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Light Gray" target="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_372" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-18">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-19">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_381" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="Zinc" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_369" target="Frame.iam:M10 HEX NUT DIN 934:1_BODY-15">
+		</material_assignment>
+	</material_assignments>
+	<preferences>
+		<preference name="ExposureCompensation" value="1.1">
+		</preference>
+		<preference name="SceneLengthUnit" value="cm">
+		</preference>
+		<preference name="SceneLengthUnitPrecision" value="0">
+		</preference>
+		<preference name="DepthOfFieldFStop" value="7.99999985871">
+		</preference>
+		<preference name="RTPresetNameAuto" value="Ambient Shadow - Interactive">
+		</preference>
+		<preference name="RTPresetNumAuto" value="1">
+		</preference>
+		<preference name="RTPresetFileAuto" value="01-InteractiveAmbientShadow.xml">
+		</preference>
+	</preferences>
+	<triggers>
+	</triggers>
+	<custom_ui>
+	</custom_ui>
+	<hotkeys>
+	</hotkeys>
+	<environments default="BP Gradient.a3e" id="BP Gradient\BP Gradient.a3e" lib="Environments" transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 46.3272948265 -19.2681198117 17.4483123666">
+		<environment src="BP Gradient.a3e" name="BP Gradient" lib="Environments" home="HOME" image="BP Gradient.png" id="BP Gradient\BP Gradient.a3e">
+		</environment>
+	</environments>
+	<shots>
+		<shot bloom_size="1" shot_type="ShotStill" bloom_intensity="0.0" thumbnail="shot-Shot1-Keyframe.png" transition_duration="0.0" duration="0.5" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="485.208650596" center_of_interest="26.3634 -22.6089 60.007" fov="25.181896194" position="-246.009 -302.341 348.088" name="Shot1" depth_of_field_lens_radius="0.0" depth_of_field_focal_distance="0.0" label="Default" depth_of_field_enable="False" bloom_enable="False" isOrtho="True" look_at_point="26.3634 -22.6089 60.007" bloom_threshold="0.0" transition_type="Cut to shot" roll="2.06845340671" modelId="Frame.iam">
+		</shot>
+		<shot bloom_size="3" shot_type="ShotStill" bloom_intensity="20.0" thumbnail="shot-34View-Keyframe.png" transition_duration="1.0" duration="5.0" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="660.982223672" center_of_interest="46.3272948265 -19.2681198117 60.0072536469" fov="26.991" position="-198.652968127 -267.334361938 132.874237463" name="34View" depth_of_field_lens_radius="0.3125" depth_of_field_focal_distance="300.0" label="3/4 View" depth_of_field_enable="False" bloom_enable="False" isOrtho="False" look_at_point="46.3272948265 -19.2681198117 60.0072536469" bloom_threshold="64.0" transition_type="Fade from black into shot" roll="0.0">
+		</shot>
+		<shot orbit_elevation="0.0" fix_look="True" bloom_intensity="20.0" keyframe_type="Start here" transition_duration="1.0" duration="5.0" exposure_compensation="2.36" horizontal_orbit_angle="360.0" fov="26.991" depth_of_field_lens_radius="0.3125" move_type="Track left" lock_tilt="True" depth_of_field_focal_distance="300.0" label="Track Left" depth_of_field_enable="False" bloom_enable="False" bloom_threshold="64.0" roll="0.0" bloom_size="3" shot_type="ShotParametric" position="-198.652968127 -267.334361938 132.874237463" use_own_camera_properties="False" ortho_distance="660.982223672" distance="178.088311695" name="TrackLeft" center_of_interest="46.3272948265 -19.2681198117 60.0072536469" thumbnail="shot-TrackLeft-Keyframe.png" horizontal_orbit_type="Left" isOrtho="False" look_at_point="46.3272948265 -19.2681198117 60.0072536469" transition_type="Fade from black into shot" vertical_orbit_type="Up">
+		</shot>
+	</shots>
+	<shadows>
+		<shadow casters="__ALL__" enable="1" name="EnvLightSelfShadow" receivers="__ALL__" light="__EnvironmentMainLight__" receiverType="3" intensity="0.700000" softness="7" shadowColor="0.000000 0.000000 0.000000" textureSize="1024" enableSoftEdges="1" falloffPower="2.000000" shadowType="2" falloffRange="1000.000000">
+		</shadow>
+	</shadows>
+	<bookmarks>
+		<bookmark duration="1.0" name="HOME">
+			<navigation_state center_of_interest="0.0 0.0 0.0" look_at_point="231.64 15.27 64.94" stepper="VectorStep" roll="0.0" position="-337.55 -561.09 234.24">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="1.0" isOrtho="0">
+			</display_state>
+		</bookmark>
+		<bookmark duration="1.0" name="__INITIAL__">
+			<navigation_state center_of_interest="46.3272948265 -19.2681198117 60.0072536469" look_at_point="46.3272948265 -19.2681198117 60.0072536469" stepper="VectorStep" roll="-1.06273700993e-14" position="46.3272948265 -19.2681198117 -406.099606493">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="407.166343323" isOrtho="0">
+			</display_state>
+		</bookmark>
+	</bookmarks>
+	<storyboard current="slide1">
+		<slide duration="0.5" id="slide1" thumbnail="slide-slide1 (1).png" name="Default" modelId="Frame.iam">
+			<slide_item start_time="0.0" type="shot">
+				<value value="Shot1">
+				</value>
+			</slide_item>
+		</slide>
+	</storyboard>
+	<object_properties_collection>
+		<object_properties object="Frame.iam:8020 Metric  00000045:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000046:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000047:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000048:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000049:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000050:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000051:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000052:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000053:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000054:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000055:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000057:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000058:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000059:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000060:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000061:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000062:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000063:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000064:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:8020 Metric  00000065:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-12" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:ANTI-SKID PAD 100mm WITH BORES:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:PAD 100mm GRAY PLASTIC WITH BORES:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-18" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:21.1846 THREADED STUD 10mm:1_BODY-19" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="Frame.iam:M10 HEX NUT DIN 934:1_BODY-15" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+	</object_properties_collection>
+	<metadata_collection>
+	</metadata_collection>
+</scene_description>
