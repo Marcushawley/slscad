@@ -1,4 +1,4 @@
-Op ME SLS Printer
+Op Me SLS Printer
 =================
 
 Inventor files for open source selective laser sintering printer.
