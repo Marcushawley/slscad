@@ -1,0 +1,2327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene_description align="t" cut="201503040913-441466" version="2014.04" unit="1">
+	<models>
+		<import transformation="1.0 0.0 0.0 0.0 6.12323399574e-17 1.0 0.0 -1.0 6.12323399574e-17 0.0 0.0 0.0" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="PrinterMini.iam">
+			<child node="PrinterMini.iam:PrinterMini">
+			</child>
+		</import>
+		<group label="PrinterMini.iam" name="PrinterMini.iam:PrinterMini" has_original_label="1">
+			<child node="PrinterMini.iam:BaseMini:1">
+			</child>
+			<child node="PrinterMini.iam:FrameMini:1">
+			</child>
+			<child node="PrinterMini.iam:PistonFrameMini:1">
+			</child>
+			<child node="PrinterMini.iam:PistonFrameMini:2">
+			</child>
+			<child node="PrinterMini.iam:PistonWorkFrameMini:1">
+			</child>
+			<child node="PrinterMini.iam:Nema17Stepper:1">
+			</child>
+			<child node="PrinterMini.iam:LinearActuatorMini:1">
+			</child>
+			<child node="PrinterMini.iam:LinearActuatorMini:2">
+			</child>
+			<child node="PrinterMini.iam:LinearActuatorMini:3">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:3">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:4">
+			</child>
+			<child node="PrinterMini.iam:FrameSheetLaserViewportMini:1">
+			</child>
+			<child node="PrinterMini.iam:PistonWorkHeadMini:1">
+			</child>
+			<child node="PrinterMini.iam:Nema17Stepper:2">
+			</child>
+			<child node="PrinterMini.iam:Nema17Stepper:3">
+			</child>
+		</group>
+		<group transformation="0.999795595199 0.00495543788068 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -31.7494892223 -15.5741864377 -6.01902727107" name="PrinterMini.iam:BaseMini:1">
+			<child node="PrinterMini.iam:BaseMini:1-1">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="0" original_world_transform="0.999795595199 0.00495543788068 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -31.7494892223 -15.5741864377 -6.01902727107" name="PrinterMini.iam:BaseMini:1-1">
+		</lod_group>
+		<group transformation="0.999795595199 0.00495543788069 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -31.6964153423 -15.7885399876 -1.01940371355" name="PrinterMini.iam:FrameMini:1">
+			<child node="PrinterMini.iam:Frame0001:1">
+			</child>
+		</group>
+		<group original_world_transform="0.999795595199 0.00495543788069 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -31.6964153423 -15.7885399876 -1.01940371355" name="PrinterMini.iam:Frame0001:1">
+			<child node="PrinterMini.iam:8020 Metric  00000015:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000016:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000017:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000018:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000019:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000020:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000021:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000022:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000023:1">
+			</child>
+			<child node="PrinterMini.iam:8020 Metric  00000024:1">
+			</child>
+		</group>
+		<group original_world_transform="0.999795595199 0.00495543788069 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -30.7018290729 -14.7836816225 -0.986879583786" transformation="1.0 -1.24683249836e-18 0.0 5.42101086243e-19 1.0 1.73472347598e-18 0.0 -3.46944695195e-18 1.0 1.0 1.0 -4.4408920985e-16" name="PrinterMini.iam:8020 Metric  00000015:1">
+			<child node="PrinterMini.iam:8020 Metric  00000015:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="1" name="PrinterMini.iam:8020 Metric  00000015:1_BODY" transformation="0.999795595199 -0.00520932583231 -0.0195353716253 0.00495543788069 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 30.7881572228 14.6350639615 0.194318596591" original_world_transform="1.0 -3.25260651746e-19 6.93889390391e-18 -1.24683249836e-18 1.0 1.73472347598e-18 0.0 1.73472347598e-18 1.0 0.0 -5.3290705182e-15 -1.11022302463e-16">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 0.0195353716253 0.0130222853029 -0.999724356681 6.31363496339 -15.2464892482 49.744188129" transformation="-1.0 1.24683249836e-18 0.0 5.42101086243e-19 1.0 1.73472347598e-18 0.0 3.46944695195e-18 -1.0 39.0 1.0 50.0" name="PrinterMini.iam:8020 Metric  00000016:1">
+			<child node="PrinterMini.iam:8020 Metric  00000016:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="2" name="PrinterMini.iam:8020 Metric  00000016:1_BODY" transformation="-0.999795595199 -0.00520932583231 0.0195353716253 -0.00495543788069 0.999902927149 0.0130222853029 -0.0196013125983 0.0129228171647 -0.999724356681 7.21184277719 14.6350639615 49.8056814034" original_world_transform="1.0 -3.25260651746e-19 6.93889390391e-18 -1.24683249836e-18 1.0 1.73472347598e-18 0.0 1.73472347598e-18 1.0 -2.6645352591e-15 -5.3290705182e-15 1.42108547152e-14">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 0.0195353716253 0.0130222853029 -0.999724356681 6.16777384008 12.750792712 50.1060270096" transformation="-1.0 1.24683249836e-18 0.0 5.42101086243e-19 1.0 1.73472347598e-18 0.0 3.46944695195e-18 -1.0 39.0 29.0 50.0" name="PrinterMini.iam:8020 Metric  00000017:1">
+			<child node="PrinterMini.iam:8020 Metric  00000017:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="3" name="PrinterMini.iam:8020 Metric  00000017:1_BODY" transformation="-0.999795595199 -0.00520932583231 0.0195353716253 -0.00495543788069 0.999902927149 0.0130222853029 -0.0196013125983 0.0129228171647 -0.999724356681 7.21184277719 -13.3649360385 49.8056814034" original_world_transform="1.0 -3.25260651746e-19 6.93889390391e-18 -1.24683249836e-18 1.0 1.73472347598e-18 0.0 1.73472347598e-18 1.0 0.0 5.3290705182e-15 -7.1054273576e-15">
+		</lod_group>
+		<group original_world_transform="0.999795595199 0.00495543788069 0.0196013125983 -0.00520932583231 0.999902927149 0.0129228171647 -0.0195353716253 -0.0130222853029 0.999724356681 -30.8476901962 13.2136003376 -0.625040703174" transformation="1.0 -1.24683249836e-18 0.0 5.42101086243e-19 1.0 1.73472347598e-18 0.0 -3.46944695195e-18 1.0 1.0 29.0 -1.11022302463e-16" name="PrinterMini.iam:8020 Metric  00000018:1">
+			<child node="PrinterMini.iam:8020 Metric  00000018:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="4" name="PrinterMini.iam:8020 Metric  00000018:1_BODY" transformation="0.999795595199 -0.00520932583231 -0.0195353716253 0.00495543788069 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 30.7881572228 -13.3649360385 0.194318596591" original_world_transform="1.0 -3.25260651746e-19 6.93889390391e-18 -1.24683249836e-18 1.0 1.73472347598e-18 0.0 1.73472347598e-18 1.0 0.0 5.3290705182e-15 3.33066907388e-16">
+		</lod_group>
+		<group original_world_transform="-0.0195353716253 -0.0130222853029 0.999724356681 -0.00520932583231 0.999902927149 0.0129228171647 -0.999795595199 -0.00495543788069 -0.0196013125983 7.33296593021 -15.228511525 48.7640650849" transformation="0.0 -3.46944695195e-18 1.0 5.42101086243e-19 1.0 1.73472347598e-18 -1.0 1.24683249836e-18 0.0 40.0 1.0 49.0" name="PrinterMini.iam:8020 Metric  00000019:1">
+			<child node="PrinterMini.iam:8020 Metric  00000019:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="5" name="PrinterMini.iam:8020 Metric  00000019:1_BODY" transformation="-0.0195353716253 -0.00520932583231 -0.999795595199 -0.0130222853029 0.999902927149 -0.00495543788069 0.999724356681 0.0129228171647 -0.0196013125983 -48.8056814034 14.6350639615 8.21184277719" original_world_transform="1.0 0.0 6.93889390391e-18 -8.67361737988e-19 1.0 8.67361737988e-19 0.0 2.62919026828e-18 1.0 -5.3290705182e-15 0.0 3.5527136788e-14">
+		</lod_group>
+		<group original_world_transform="0.0195353716253 0.0130222853029 -0.999724356681 -0.00520932583231 0.999902927149 0.0129228171647 0.999795595199 0.00495543788069 0.0196013125983 -32.8047190011 12.5705529199 48.3418514616" transformation="0.0 3.46944695195e-18 -1.0 5.42101086243e-19 1.0 1.73472347598e-18 1.0 -1.24683249836e-18 0.0 -3.5527136788e-15 29.0 49.0" name="PrinterMini.iam:8020 Metric  00000020:1">
+			<child node="PrinterMini.iam:8020 Metric  00000020:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="6" name="PrinterMini.iam:8020 Metric  00000020:1_BODY" transformation="0.0195353716253 -0.00520932583231 0.999795595199 0.0130222853029 0.999902927149 0.00495543788069 -0.999724356681 0.0129228171647 0.0196013125983 48.8056814034 -13.3649360385 31.7881572228" original_world_transform="1.0 0.0 6.93889390391e-18 -8.67361737988e-19 1.0 8.67361737988e-19 0.0 2.62919026828e-18 1.0 0.0 0.0 1.42108547152e-14">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 0.0195353716253 0.0130222853029 -0.999724356681 0.00520932583231 -0.999902927149 -0.0129228171647 6.18209988588 13.7637179244 49.1192254701" transformation="-1.0 1.24683249836e-18 0.0 0.0 1.73472347598e-18 -1.0 -5.42101086243e-19 -1.0 0.0 39.0 30.0 49.0" name="PrinterMini.iam:8020 Metric  00000021:1">
+			<child node="PrinterMini.iam:8020 Metric  00000021:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="7" name="PrinterMini.iam:8020 Metric  00000021:1_BODY" transformation="-0.999795595199 0.0195353716253 0.00520932583231 -0.00495543788069 0.0130222853029 -0.999902927149 -0.0196013125983 -0.999724356681 -0.0129228171647 7.21184277719 48.8056814034 14.3649360385" original_world_transform="1.0 0.0 6.85757874097e-18 -1.73472347598e-18 1.0 1.73472347598e-18 -8.13151629364e-20 3.46944695195e-18 1.0 -2.6645352591e-15 0.0 1.42108547152e-14">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 -0.0195353716253 -0.0130222853029 0.999724356681 -0.00520932583231 0.999902927149 0.0129228171647 -31.6538529567 -16.4216765295 47.9866910764" transformation="-1.0 1.24683249836e-18 0.0 0.0 -1.73472347598e-18 1.0 5.42101086243e-19 1.0 0.0 1.0 7.1054273576e-15 49.0" name="PrinterMini.iam:8020 Metric  00000022:1">
+			<child node="PrinterMini.iam:8020 Metric  00000022:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="8" name="PrinterMini.iam:8020 Metric  00000022:1_BODY" transformation="-0.999795595199 -0.0195353716253 -0.00520932583231 -0.00495543788069 -0.0130222853029 0.999902927149 -0.0196013125983 0.999724356681 0.0129228171647 -30.7881572228 -48.8056814034 15.6350639615" original_world_transform="1.0 0.0 6.85757874097e-18 -1.73472347598e-18 1.0 1.73472347598e-18 -8.13151629364e-20 3.46944695195e-18 1.0 0.0 -3.5527136788e-15 3.5527136788e-14">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 -0.0195353716253 -0.0130222853029 0.999724356681 -0.00520932583231 0.999902927149 0.0129228171647 7.27607749886 -15.6083001955 0.744771834465" transformation="-1.0 1.24683249836e-18 0.0 0.0 -1.73472347598e-18 1.0 5.42101086243e-19 1.0 0.0 39.0 1.7763568394e-15 1.0" name="PrinterMini.iam:8020 Metric  00000023:1">
+			<child node="PrinterMini.iam:8020 Metric  00000023:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="9" name="PrinterMini.iam:8020 Metric  00000023:1_BODY" transformation="-0.999795595199 -0.0195353716253 -0.00520932583231 -0.00495543788069 -0.0130222853029 0.999902927149 -0.0196013125983 0.999724356681 0.0129228171647 7.21184277719 -0.805681403409 15.6350639615" original_world_transform="1.0 0.0 6.85757874097e-18 -1.73472347598e-18 1.0 1.73472347598e-18 -8.13151629364e-20 3.46944695195e-18 1.0 -2.6645352591e-15 0.0 0.0">
+		</lod_group>
+		<group original_world_transform="-0.999795595199 -0.00495543788069 -0.0196013125983 0.0195353716253 0.0130222853029 -0.999724356681 0.00520932583231 -0.999902927149 -0.0129228171647 -30.8724348937 14.2004809795 0.387606470672" transformation="-1.0 1.24683249836e-18 0.0 0.0 1.73472347598e-18 -1.0 -5.42101086243e-19 -1.0 0.0 1.0 30.0 1.0" name="PrinterMini.iam:8020 Metric  00000024:1">
+			<child node="PrinterMini.iam:8020 Metric  00000024:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="10" name="PrinterMini.iam:8020 Metric  00000024:1_BODY" transformation="-0.999795595199 0.0195353716253 0.00520932583231 -0.00495543788069 0.0130222853029 -0.999902927149 -0.0196013125983 -0.999724356681 -0.0129228171647 -30.7881572228 0.805681403409 14.3649360385" original_world_transform="1.0 0.0 6.85757874097e-18 -1.73472347598e-18 1.0 1.73472347598e-18 -8.13151629364e-20 3.46944695195e-18 1.0 1.06581410364e-14 5.3290705182e-15 6.66133814775e-16">
+		</lod_group>
+		<group transformation="1.0 3.60822483003e-16 -6.37627709e-16 -3.60822483003e-16 1.0 -2.00699918302e-16 6.37627709e-16 2.00699918302e-16 1.0 -44.1434703198 -38.3161611127 18.169218262" name="PrinterMini.iam:PistonFrameMini:1">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1">
+			</child>
+		</group>
+		<group original_world_transform="1.0 3.60822483003e-16 -6.37627709e-16 -3.60822483003e-16 1.0 -2.00699918302e-16 6.37627709e-16 2.00699918302e-16 1.0 -40.148875454 -39.0605271819 8.86115756138" transformation="1.0 -1.99395906255e-32 0.0 -1.99395906255e-32 1.0 -2.46519032882e-32 0.0 2.46519032882e-32 1.0 3.99459486581 -0.744366069221 -9.30806070064" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="11" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY" transformation="1.0 -3.60822483003e-16 6.37627709e-16 3.60822483003e-16 1.0 2.00699918302e-16 -6.37627709e-16 -2.00699918302e-16 1.0 40.148875454 39.0605271819 -8.86115756138" original_world_transform="1.0 -1.99395906255e-32 0.0 -1.99395906255e-32 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="1.0 -2.22044604925e-16 6.99879480201e-16 2.22044604925e-16 1.0 5.69187769457e-16 -6.99879480201e-16 -5.69187769457e-16 1.0 -35.2044163933 -24.3190171798 10.5505480616" name="PrinterMini.iam:PistonFrameMini:2">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1-4">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -2.22044604925e-16 6.99879480201e-16 2.22044604925e-16 1.0 5.69187769457e-16 -6.99879480201e-16 -5.69187769457e-16 1.0 -31.2098215275 -25.063383249 1.24248736094" transformation="1.0 3.93238761393e-33 0.0 3.93238761393e-33 1.0 0.0 0.0 0.0 1.0 3.99459486581 -0.744366069221 -9.30806070064" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1-4">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="11" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY-2" transformation="1.0 -3.60822483003e-16 6.37627709e-16 3.60822483003e-16 1.0 2.00699918302e-16 -6.37627709e-16 -2.00699918302e-16 1.0 40.148875454 39.0605271819 -8.86115756138" original_world_transform="1.0 -5.82867087928e-16 1.3375071892e-15 5.82867087928e-16 1.0 7.69887687759e-16 -1.3375071892e-15 -7.69887687759e-16 1.0 8.93905392657 13.997143933 -7.61867020044">
+		</lod_group>
+		<group transformation="1.0 -4.4408920985e-16 4.80066569666e-16 4.4408920985e-16 1.0 -4.79571539759e-16 -4.80066569666e-16 4.79571539759e-16 1.0 -42.1933171001 -24.145645076 29.5292261059" name="PrinterMini.iam:PistonWorkFrameMini:1">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -4.4408920985e-16 4.80066569666e-16 4.4408920985e-16 1.0 -4.79571539759e-16 -4.80066569666e-16 4.79571539759e-16 1.0 -42.7488726474 -24.163451344 24.5292261059" transformation="1.0 -3.30110376962e-32 0.0 -3.30110376962e-32 1.0 0.0 0.0 0.0 1.0 -0.555555547277 -0.0178062679151 -5.0" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1">
+			<child node="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="12" name="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1_BODY" transformation="1.0 4.4408920985e-16 -4.80066569666e-16 -4.4408920985e-16 1.0 4.79571539759e-16 4.80066569666e-16 -4.79571539759e-16 1.0 42.7488726474 24.163451344 -24.5292261059" original_world_transform="1.0 -3.30110376962e-32 0.0 -3.30110376962e-32 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="0.999795595199 0.00495543788068 0.0196013125983 -0.0195353716253 -0.0130222853029 0.999724356681 0.0052093258323 -0.999902927149 -0.0129228171647 -11.8554172365 -0.595987420069 3.80001298811" name="PrinterMini.iam:Nema17Stepper:1">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1">
+			</child>
+		</group>
+		<group original_world_transform="0.999795595199 0.00495543788068 0.0196013125983 -0.0195353716253 -0.0130222853029 0.999724356681 0.0052093258323 -0.999902927149 -0.0129228171647 -11.8906348521 -0.538342923686 1.97050927964" transformation="1.0 3.46944695195e-18 6.50521303491e-19 -3.46944695195e-18 1.0 1.73472347598e-18 6.50521303491e-19 1.73472347598e-18 1.0 -0.0707854373481 -1.82906209187 -0.0341800187755" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-3">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-15">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-27">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-33">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-37">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-41">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-45">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-1">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="13" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-1">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="14" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-2">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-3">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-4">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-5">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-6">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-7">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-8">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-9">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-10">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-11">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-12">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-13">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-14">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="15" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-4">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="16" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-5">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="17" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-6">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="18" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-7">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="19" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-8">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="20" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-9">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="21" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-10">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="22" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-11">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-12">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-13">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-14">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-15">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-16">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-17">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-18">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-19">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-20">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-21">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-22">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-23">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-24">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-25">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-26">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-16">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-17">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-18">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="29" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-19">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="30" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-20">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="31" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-21">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="32" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-22">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="33" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-23">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="34" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-24">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="35" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-25">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="36" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-26">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-27">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-28">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-29">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-30">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-31">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-32">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="37" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-28">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="38" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-29">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="39" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-30">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-31">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-32">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-33">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-34">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-35">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-36">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="42" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-34">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="43" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-35">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-36">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-37">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-38">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-39">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-40">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="45" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-38">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="46" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-39">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="47" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-40">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-41">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-42">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-43">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-44">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="48" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-42">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="49" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-43">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="50" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-44">
+		</lod_group>
+		<group original_world_transform="1.0 0.0 2.41234983378e-18 0.0 1.0 0.0 5.86824425858e-18 3.46944695195e-18 1.0 3.5527136788e-15 0.0 4.4408920985e-16" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-45">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-46">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-47">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-48">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="51" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-46">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="52" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-47">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="53" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-48">
+		</lod_group>
+		<group transformation="-8.55524801329e-16 1.0 -6.41755809893e-17 -1.0 -8.55524801329e-16 -6.08145703743e-16 -6.08145703743e-16 6.41755809893e-17 1.0 -12.9025118086 -50.4997044594 5.31985433129" name="PrinterMini.iam:LinearActuatorMini:1">
+			<child node="PrinterMini.iam:BallScrew120mm:1">
+			</child>
+		</group>
+		<group original_world_transform="-8.55524801329e-16 1.0 -6.41755809893e-17 -1.0 -8.55524801329e-16 -6.08145703743e-16 -6.08145703743e-16 6.41755809893e-17 1.0 -12.599805254 -50.7774822331 -0.680145668708" transformation="1.0 3.90281038639e-32 -1.23259516441e-32 3.90281038639e-32 1.0 9.86076131526e-32 1.23259516441e-32 -9.86076131526e-32 1.0 -0.277777773639 -0.302706554557 -6.0" name="PrinterMini.iam:BallScrew120mm:1">
+			<child node="PrinterMini.iam:BallScrew120mm:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="54" name="PrinterMini.iam:BallScrew120mm:1_BODY" transformation="-8.55524801329e-16 -1.0 -6.08145703743e-16 1.0 -8.55524801329e-16 6.41755809893e-17 -6.41755809893e-17 -6.08145703743e-16 1.0 50.7774822331 -12.599805254 0.680145668708" original_world_transform="1.0 -3.90281038639e-32 0.0 -3.90281038639e-32 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group transformation="-1.89390986554e-16 1.0 1.76150784533e-17 -1.0 -1.89390986554e-16 1.73037170879e-15 1.73037170879e-15 -1.76150784533e-17 1.0 -19.3843352499 -60.2416604242 12.1794022189" name="PrinterMini.iam:LinearActuatorMini:2">
+			<child node="PrinterMini.iam:BallScrew120mm:1-2">
+			</child>
+		</group>
+		<group original_world_transform="-1.89390986554e-16 1.0 1.76150784533e-17 -1.0 -1.89390986554e-16 1.73037170879e-15 1.73037170879e-15 -1.76150784533e-17 1.0 -19.0816286953 -60.5194381978 6.17940221889" transformation="1.0 5.8287301155e-33 -1.23259516441e-32 5.8287301155e-33 1.0 1.97215226305e-31 1.23259516441e-32 -1.97215226305e-31 1.0 -0.277777773639 -0.302706554557 -6.0" name="PrinterMini.iam:BallScrew120mm:1-2">
+			<child node="PrinterMini.iam:BallScrew120mm:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="54" name="PrinterMini.iam:BallScrew120mm:1_BODY-2" transformation="-8.55524801329e-16 -1.0 -6.08145703743e-16 1.0 -8.55524801329e-16 6.41755809893e-17 -6.41755809893e-17 -6.08145703743e-16 1.0 50.7774822331 -12.599805254 0.680145668708" original_world_transform="1.0 -6.66133814775e-16 -2.33851741253e-15 6.66133814775e-16 1.0 8.17906594426e-17 2.33851741253e-15 -8.17906594426e-17 1.0 -6.48182344131 -9.74195596476 6.8595478876">
+		</lod_group>
+		<group transformation="-0.999809157995 0.000124642597656 -0.0195354051282 0.000129787378331 -0.999915198679 -0.0130222350433 -0.0195353716253 -0.0130222853029 0.999724356681 -12.4206011503 -0.986625039383 10.483081823" name="PrinterMini.iam:LinearActuatorMini:3">
+			<child node="PrinterMini.iam:BallScrew120mm:1-4">
+			</child>
+		</group>
+		<group original_world_transform="-0.999809157995 0.000124642597656 -0.0195354051282 0.000129787378331 -0.999915198679 -0.0130222350433 -0.0195353716253 -0.0130222853029 0.999724356681 -12.0257034461 -0.605845065867 4.49410410021" transformation="1.0 -5.42101086243e-20 -3.46944695195e-18 5.42101086243e-20 1.0 -1.73472347598e-18 3.46944695195e-18 3.46944695195e-18 1.0 -0.277777773639 -0.302706554557 -6.0" name="PrinterMini.iam:BallScrew120mm:1-4">
+			<child node="PrinterMini.iam:BallScrew120mm:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="54" name="PrinterMini.iam:BallScrew120mm:1_BODY-4" transformation="-8.55543934308e-16 -1.0 -6.05418493116e-16 1.0 -8.55381303982e-16 5.89805981832e-17 -5.89805981832e-17 -6.07153216592e-16 1.0 50.7774822331 -12.599805254 0.680145668708" original_world_transform="-0.000129787378331 0.999915198679 0.0130222350433 -0.999809157995 0.000124642597657 -0.0195354051282 -0.0195353716253 -0.0130222853029 0.999724356681 -62.8084173967 11.9903636944 4.34618123001">
+		</lod_group>
+		<group transformation="-3.33066907388e-16 1.0 -6.41755809893e-17 -1.0 -3.33066907388e-16 -6.08145703743e-16 -6.08145703743e-16 6.41755809893e-17 1.0 -18.6942052278 -43.3185478202 20.2670448626" name="PrinterMini.iam:PistonFeederHeadMini:3">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:2">
+			</child>
+		</group>
+		<group original_world_transform="1.01218705125e-15 -1.0 6.41755809893e-17 -1.0 -1.01218705125e-15 -6.08145703743e-16 6.08145703743e-16 -6.41755809893e-17 -1.0 -10.099805254 -45.2774822331 12.5198543313" transformation="-1.0 -6.79120143865e-16 1.23259516441e-32 -6.79120143865e-16 1.0 0.0 -1.23259516441e-32 9.86076131526e-32 -1.0 -1.95893441285 -8.5943999738 -7.74719053127" name="PrinterMini.iam:PistonFeederHeadMini:1">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -3.90281038639e-32 0.0 -3.90281038639e-32 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.01218705125e-15 -1.0 6.08145703743e-16 -1.0 -1.01218705125e-15 -6.41755809893e-17 6.41755809893e-17 -6.08145703743e-16 -1.0 -45.2774822331 -10.099805254 12.5198543313" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-1">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="55" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-1">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="56" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-2">
+		</lod_group>
+		<group original_world_transform="-4.46935935554e-16 1.0 -6.41755809893e-17 -1.0 -4.46935935554e-16 -6.08145703743e-16 -6.08145703743e-16 6.41755809893e-17 1.0 -10.999805254 -55.4774822331 11.7198543313" transformation="1.0 1.13869028167e-16 -1.23259516441e-32 -1.13869028167e-16 1.0 9.86076131526e-32 1.23259516441e-32 -9.86076131526e-32 1.0 -12.1589344128 -7.6943999738 -8.54719053127" name="PrinterMini.iam:PistonFeederHeadInnerMini:1">
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="57" name="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY" transformation="-4.46935935554e-16 -1.0 -6.08145703743e-16 1.0 -4.46935935554e-16 6.41755809893e-17 -6.41755809893e-17 -6.08145703743e-16 1.0 55.4774822331 -10.999805254 -11.7198543313" original_world_transform="1.0 -3.90281038639e-32 0.0 -3.90281038639e-32 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0">
+		</lod_group>
+		<group original_world_transform="-3.33066907388e-16 1.0 -6.41755809893e-17 -1.0 -3.33066907388e-16 -6.08145703743e-16 -6.08145703743e-16 6.41755809893e-17 1.0 -10.099805254 -56.2774822331 11.3198543313" transformation="1.0 3.90281038639e-32 -1.23259516441e-32 -5.95795092887e-32 1.0 9.86076131526e-32 1.23259516441e-32 -9.86076131526e-32 1.0 -12.9589344128 -8.5943999738 -8.94719053127" name="PrinterMini.iam:PistonFeederHeadMini:2">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-3">
+			</child>
+		</group>
+		<group original_world_transform="1.0 1.34525395864e-15 1.21629140749e-15 1.34525395864e-15 -1.0 8.13512808509e-31 1.21629140749e-15 8.01186856865e-31 -1.0 5.15143483426e-14 -101.554964466 23.8397086626" transformation="1.01218705125e-15 -1.0 6.08145703743e-16 -1.0 -1.01218705125e-15 -6.41755809893e-17 6.41755809893e-17 -6.08145703743e-16 -1.0 -45.2774822331 -10.099805254 12.5198543313" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-3">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-4">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-5">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="55" original_world_transform="1.0 1.34525395864e-15 1.21629140749e-15 1.34525395864e-15 -1.0 8.13512808509e-31 1.21629140749e-15 8.01186856865e-31 -1.0 5.15143483426e-14 -101.554964466 23.8397086626" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-4">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="56" original_world_transform="1.0 1.34525395864e-15 1.21629140749e-15 1.34525395864e-15 -1.0 8.13512808509e-31 1.21629140749e-15 8.01186856865e-31 -1.0 5.15143483426e-14 -101.554964466 23.8397086626" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-5">
+		</lod_group>
+		<group transformation="3.33066907388e-16 1.0 1.76150784533e-17 -1.0 3.33066907388e-16 1.73037170879e-15 1.73037170879e-15 -1.76150784533e-17 1.0 -25.1760286691 -53.060503785 27.1265927502" name="PrinterMini.iam:PistonFeederHeadMini:4">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1-3">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1-2">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:2-1">
+			</child>
+		</group>
+		<group original_world_transform="3.46053236477e-16 -1.0 -1.76150784533e-17 -1.0 -3.46053236477e-16 1.73037170879e-15 -1.73037170879e-15 1.76150784533e-17 -1.0 -16.5816286953 -55.0194381978 19.3794022189" transformation="-1.0 -6.79120143865e-16 1.23259516441e-32 -6.79120143865e-16 1.0 1.97215226305e-31 -1.23259516441e-32 1.97215226305e-31 -1.0 -1.95893441285 -8.5943999738 -7.74719053127" name="PrinterMini.iam:PistonFeederHeadMini:1-3">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-6">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -6.66133814775e-16 -2.33851741253e-15 6.66133814775e-16 1.0 8.17906594426e-17 2.33851741253e-15 -8.17906594426e-17 1.0 -6.48182344131 -9.74195596476 6.8595478876" transformation="1.01218705125e-15 -1.0 6.08145703743e-16 -1.0 -1.01218705125e-15 -6.41755809893e-17 6.41755809893e-17 -6.08145703743e-16 -1.0 -45.2774822331 -10.099805254 12.5198543313" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-6">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-7">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-8">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="55" original_world_transform="1.0 -6.66133814775e-16 -2.33851741253e-15 6.66133814775e-16 1.0 8.17906594426e-17 2.33851741253e-15 -8.17906594426e-17 1.0 -6.48182344131 -9.74195596476 6.8595478876" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-7">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="56" original_world_transform="1.0 -6.66133814775e-16 -2.33851741253e-15 6.66133814775e-16 1.0 8.17906594426e-17 2.33851741253e-15 -8.17906594426e-17 1.0 -6.48182344131 -9.74195596476 6.8595478876" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-8">
+		</lod_group>
+		<group original_world_transform="2.19197879221e-16 1.0 1.76150784533e-17 -1.0 2.19197879221e-16 1.73037170879e-15 1.73037170879e-15 -1.76150784533e-17 1.0 -17.4816286953 -65.2194381978 18.5794022189" transformation="1.0 1.13869028167e-16 -1.23259516441e-32 -1.13869028167e-16 1.0 1.97215226305e-31 1.23259516441e-32 -1.97215226305e-31 1.0 -12.1589344128 -7.6943999738 -8.54719053127" name="PrinterMini.iam:PistonFeederHeadInnerMini:1-2">
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="57" name="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-2" transformation="-4.46935935554e-16 -1.0 -6.08145703743e-16 1.0 -4.46935935554e-16 6.41755809893e-17 -6.41755809893e-17 -6.08145703743e-16 1.0 55.4774822331 -10.999805254 -11.7198543313" original_world_transform="1.0 -6.66133814775e-16 -2.33851741253e-15 6.66133814775e-16 1.0 8.17906594426e-17 2.33851741253e-15 -8.17906594426e-17 1.0 -6.48182344131 -9.74195596476 6.8595478876">
+		</lod_group>
+		<group original_world_transform="3.33066907388e-16 1.0 1.76150784533e-17 -1.0 3.33066907388e-16 1.73037170879e-15 1.73037170879e-15 -1.76150784533e-17 1.0 -16.5816286953 -66.0194381978 18.1794022189" transformation="1.0 3.04806334037e-32 -1.23259516441e-32 -6.8126979749e-32 1.0 1.97215226305e-31 1.23259516441e-32 -1.97215226305e-31 1.0 -12.9589344128 -8.5943999738 -8.94719053127" name="PrinterMini.iam:PistonFeederHeadMini:2-1">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-9">
+			</child>
+		</group>
+		<group original_world_transform="1.0 6.79120143865e-16 -1.12222600504e-15 6.79120143865e-16 -1.0 -8.17906594426e-17 -1.12222600504e-15 8.17906594426e-17 -1.0 -6.48182344131 -111.296920431 30.6992565502" transformation="1.01218705125e-15 -1.0 6.08145703743e-16 -1.0 -1.01218705125e-15 -6.41755809893e-17 6.41755809893e-17 -6.08145703743e-16 -1.0 -45.2774822331 -10.099805254 12.5198543313" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-9">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-10">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-11">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="55" original_world_transform="1.0 6.79120143865e-16 -1.12222600504e-15 6.79120143865e-16 -1.0 -8.17906594426e-17 -1.12222600504e-15 8.17906594426e-17 -1.0 -6.48182344131 -111.296920431 30.6992565502" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-10">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="56" original_world_transform="1.0 6.79120143865e-16 -1.12222600504e-15 6.79120143865e-16 -1.0 -8.17906594426e-17 -1.12222600504e-15 8.17906594426e-17 -1.0 -6.48182344131 -111.296920431 30.6992565502" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-11">
+		</lod_group>
+		<group transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 -78.2297041518 -65.4964794318 32.0372287896" name="PrinterMini.iam:FrameSheetLaserViewportMini:1">
+			<child node="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 78.2297041518 65.4964794318 -32.0372287896" name="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY">
+			<child node="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-1">
+			</child>
+			<child node="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="58" name="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-1">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="59" name="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-2">
+		</lod_group>
+		<group transformation="0.999809157995 -0.000124642597654 0.0195354051282 -0.000129787378333 0.999915198679 0.0130222350433 -0.0195353716253 -0.0130222853029 0.999724356681 -11.3226261625 12.2144652857 18.0859940256" name="PrinterMini.iam:PistonWorkHeadMini:1">
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1-4">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1-6">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:2-2">
+			</child>
+		</group>
+		<group original_world_transform="0.999809157995 -0.000124642597654 0.0195354051282 0.000129787378333 -0.999915198679 -0.0130222350433 0.0195353716253 0.0130222853029 -0.999724356681 -16.9754692461 3.92765693626 17.2599639663" transformation="1.0 2.22098815034e-16 9.71445146547e-17 2.22153025142e-16 -1.0 9.54097911787e-17 9.71445146547e-17 -9.36750677027e-17 -1.0 -5.66686822623 -8.29612870704 -0.607458796619" name="PrinterMini.iam:PistonFeederHeadInnerMini:1-4">
+			<child node="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="60" name="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-4" transformation="0.999809157995 0.000129787378333 0.0195353716253 -0.000124642597654 -0.999915198679 0.0130222853029 0.0195354051282 -0.0130222350433 -0.999724356681 16.6355387783 4.15429037502 17.5356814036" original_world_transform="1.0 2.16840434497e-19 3.46944695195e-18 0.0 1.0 5.20417042793e-18 -6.93889390391e-18 -3.46944695195e-18 1.0 -1.06581410364e-14 -4.4408920985e-16 1.06581410364e-14">
+		</lod_group>
+		<group original_world_transform="0.999809157995 -0.000124642597654 0.0195354051282 -0.000129787378333 0.999915198679 0.0130222350433 -0.0195353716253 -0.0130222853029 0.999724356681 -17.7739927413 -6.27137837619 17.1115088448" transformation="1.0 2.22098815034e-16 9.71445146547e-17 -2.22153025142e-16 1.0 -9.54097911787e-17 -9.71445146547e-17 9.36750677027e-17 1.0 -6.46686822623 -18.496128707 -0.607458796619" name="PrinterMini.iam:PistonFeederHeadMini:1-6">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-12">
+			</child>
+		</group>
+		<group original_world_transform="1.0 1.08420217249e-19 3.46944695195e-18 0.0 1.0 3.46944695195e-18 -3.46944695195e-18 -3.46944695195e-18 1.0 0.0 0.0 7.1054273576e-15" transformation="0.999809157995 -0.000129787378333 -0.0195353716253 -0.000124642597654 0.999915198679 -0.0130222853029 0.0195354051282 0.0130222350433 0.999724356681 17.4355387783 6.04570962498 -17.5356814036" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-12">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-13">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-14">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="61" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-13">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="62" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-14">
+		</lod_group>
+		<group original_world_transform="-0.999809157995 0.000124642597656 -0.0195354051282 0.000129787378331 -0.999915198679 -0.0130222350433 -0.0195353716253 -0.0130222853029 0.999724356681 -6.76189136717 4.73673556895 16.6698634013" transformation="-1.0 1.74876389411e-15 -1.73472347598e-17 -1.74865547389e-15 -1.0 9.54097911787e-17 -1.73472347598e-17 9.54097911787e-17 1.0 4.53313177377 -7.49612870704 -1.40745879662" name="PrinterMini.iam:PistonFeederHeadMini:2-2">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-15">
+			</child>
+		</group>
+		<group original_world_transform="-0.999236738511 0.000508790365608 -0.0390599736612 0.000508790365604 -0.999660840171 -0.0260373915939 -0.0390599736612 -0.0260373915939 0.998897578682 -23.8507520026 -1.07793351481 -1.28032337426" transformation="0.999809157995 -0.000129787378333 -0.0195353716253 -0.000124642597654 0.999915198679 -0.0130222853029 0.0195354051282 0.0130222350433 0.999724356681 17.4355387783 6.04570962498 -17.5356814036" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-15">
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-16">
+			</child>
+			<child node="PrinterMini.iam:PistonFeederHeadMini:1_BODY-17">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="61" original_world_transform="-0.999236738511 0.000508790365608 -0.0390599736612 0.000508790365604 -0.999660840171 -0.0260373915939 -0.0390599736612 -0.0260373915939 0.998897578682 -23.8507520026 -1.07793351481 -1.28032337426" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-16">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="62" original_world_transform="-0.999236738511 0.000508790365608 -0.0390599736612 0.000508790365604 -0.999660840171 -0.0260373915939 -0.0390599736612 -0.0260373915939 0.998897578682 -23.8507520026 -1.07793351481 -1.28032337426" name="PrinterMini.iam:PistonFeederHeadMini:1_BODY-17">
+		</lod_group>
+		<group transformation="1.0 0.0 0.0 0.0 2.22044604925e-16 1.0 0.0 -1.0 2.22044604925e-16 -25.5834796198 -36.8689344538 -2.23811153246" name="PrinterMini.iam:Nema17Stepper:2">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-1">
+			</child>
+		</group>
+		<group original_world_transform="1.0 5.42101086243e-20 3.46944695195e-18 -3.46944695195e-18 2.22044604925e-16 1.0 5.42101086243e-20 -1.0 2.22044604925e-16 -25.6542650572 -36.834754435 -4.06717362433" transformation="1.0 3.46944695195e-18 -5.42101086243e-20 -3.46944695195e-18 1.0 0.0 5.42101086243e-20 0.0 1.0 -0.0707854373481 -1.82906209187 -0.0341800187755" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-1">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-49">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-52">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-64">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-76">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-82">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-86">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-90">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-94">
+			</child>
+		</group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-49">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-50">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-51">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="13" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-50">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="14" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-51">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-52">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-53">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-54">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-55">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-56">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-57">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-58">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-59">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-60">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-61">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-62">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-63">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="15" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-53">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="16" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-54">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="17" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-55">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="18" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-56">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="19" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-57">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="20" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-58">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="21" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-59">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="22" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-60">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-61">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-62">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-63">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-64">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-65">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-66">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-67">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-68">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-69">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-70">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-71">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-72">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-73">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-74">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-75">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-65">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-66">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-67">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="29" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-68">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="30" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-69">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="31" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-70">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="32" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-71">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="33" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-72">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="34" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-73">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="35" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-74">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="36" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-75">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-76">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-77">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-78">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-79">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-80">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-81">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="37" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-77">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="38" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-78">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-79">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-80">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-81">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-82">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-83">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-84">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-85">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-83">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="43" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-84">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-85">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-86">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-87">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-88">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-89">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="45" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-87">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="46" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-88">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="47" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-89">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-90">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-91">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-92">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-93">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="48" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-91">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="49" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-92">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="50" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-93">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-94">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-95">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-96">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-97">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="51" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-95">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="52" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-96">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="53" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -13.8020175514 -36.3838704923 -6.27643817208" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-97">
+		</lod_group>
+		<group transformation="1.0 0.0 0.0 0.0 2.22044604925e-16 1.0 0.0 -1.0 2.22044604925e-16 -23.2912025891 -31.353420809 -5.92784359889" name="PrinterMini.iam:Nema17Stepper:3">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-2">
+			</child>
+		</group>
+		<group original_world_transform="1.0 5.42101086243e-20 3.46944695195e-18 -3.46944695195e-18 2.22044604925e-16 1.0 5.42101086243e-20 -1.0 2.22044604925e-16 -23.3619880264 -31.3192407903 -7.75690569076" transformation="1.0 3.46944695195e-18 -5.42101086243e-20 -3.46944695195e-18 1.0 0.0 5.42101086243e-20 0.0 1.0 -0.0707854373481 -1.82906209187 -0.0341800187755" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-2">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-98">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-101">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-113">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-125">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-131">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-135">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-139">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-143">
+			</child>
+		</group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-98">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-99">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-100">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="13" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-99">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="14" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-100">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-101">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-102">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-103">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-104">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-105">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-106">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-107">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-108">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-109">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-110">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-111">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-112">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="15" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-102">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="16" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-103">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="17" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-104">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="18" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-105">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="19" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-106">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="20" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-107">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="21" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-108">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="22" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-109">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-110">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-111">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-112">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-113">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-114">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-115">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-116">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-117">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-118">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-119">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-120">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-121">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-122">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-123">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-124">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="26" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-114">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-115">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-116">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="29" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-117">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="30" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-118">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="31" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-119">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="32" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-120">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="33" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-121">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="34" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-122">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="35" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-123">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="36" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-124">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-125">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-126">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-127">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-128">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-129">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-130">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="37" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-126">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="38" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-127">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-128">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-129">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-130">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-131">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-132">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-133">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-134">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-132">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="43" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-133">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-134">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-135">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-136">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-137">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-138">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="45" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-136">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="46" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-137">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="47" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-138">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-139">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-140">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-141">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-142">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="48" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-140">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="49" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-141">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="50" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-142">
+		</lod_group>
+		<group original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" transformation="0.999795595199 -0.0195353716253 0.0052093258323 0.00495543788068 -0.0130222853029 -0.999902927149 0.0196013125983 0.999724356681 -0.0129228171647 11.8522475058 -2.20926454776 -0.450883942764" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-143">
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-144">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-145">
+			</child>
+			<child node="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-146">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="51" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-144">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="52" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-145">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="53" original_world_transform="0.999795595199 -0.0052093258323 -0.0195353716253 0.00495543788068 0.999902927149 -0.0130222853029 0.0196013125983 0.0129228171647 0.999724356681 -11.5097405206 -30.8683568475 -9.96617023852" name="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-146">
+		</lod_group>
+	</models>
+	<behaviors>
+	</behaviors>
+	<navigators default="Orbit">
+		<navigator type="Walk" name="Walk">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Orbit" name="Orbit">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Composite" name="Composite">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+	</navigators>
+	<model_imports>
+		<import src="PrinterMini.a3g" apf_z_up="0" name="PrinterMini.iam" original_apf_unit="cm" ids="PrinterMini.iam|PrinterMini.iam:8020 Metric  00000015:1|PrinterMini.iam:8020 Metric  00000015:1_BODY|PrinterMini.iam:8020 Metric  00000016:1|PrinterMini.iam:8020 Metric  00000016:1_BODY|PrinterMini.iam:8020 Metric  00000017:1|PrinterMini.iam:8020 Metric  00000017:1_BODY|PrinterMini.iam:8020 Metric  00000018:1|PrinterMini.iam:8020 Metric  00000018:1_BODY|PrinterMini.iam:8020 Metric  00000019:1|PrinterMini.iam:8020 Metric  00000019:1_BODY|PrinterMini.iam:8020 Metric  00000020:1|PrinterMini.iam:8020 Metric  00000020:1_BODY|PrinterMini.iam:8020 Metric  00000021:1|PrinterMini.iam:8020 Metric  00000021:1_BODY|PrinterMini.iam:8020 Metric  00000022:1|PrinterMini.iam:8020 Metric  00000022:1_BODY|PrinterMini.iam:8020 Metric  00000023:1|PrinterMini.iam:8020 Metric  00000023:1_BODY|PrinterMini.iam:8020 Metric  00000024:1|PrinterMini.iam:8020 Metric  00000024:1_BODY|PrinterMini.iam:BallScrew120mm:1|PrinterMini.iam:BallScrew120mm:1-2|PrinterMini.iam:BallScrew120mm:1-4|PrinterMini.iam:BallScrew120mm:1_BODY|PrinterMini.iam:BallScrew120mm:1_BODY-2|PrinterMini.iam:BallScrew120mm:1_BODY-4|PrinterMini.iam:BaseMini:1|PrinterMini.iam:BaseMini:1-1|PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1|PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1_BODY|PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1|PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1-4|PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY|PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY-2|PrinterMini.iam:Frame0001:1|PrinterMini.iam:FrameMini:1|PrinterMini.iam:FrameSheetLaserViewportMini:1|PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY|PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-1|PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-2|PrinterMini.iam:LinearActuatorMini:1|PrinterMini.iam:LinearActuatorMini:2|PrinterMini.iam:LinearActuatorMini:3|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-1|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1-2|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-1|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-10|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-100|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-101|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-102|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-103|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-104|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-105|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-106|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-107|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-108|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-109|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-11|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-110|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-111|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-112|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-113|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-114|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-115|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-116|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-117|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-118|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-119|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-12|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-120|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-121|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-122|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-123|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-124|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-125|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-126|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-127|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-128|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-129|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-13|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-130|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-131|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-132|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-133|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-134|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-135|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-136|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-137|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-138|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-139|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-14|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-140|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-141|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-142|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-143|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-144|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-145|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-146|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-15|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-16|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-17|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-18|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-19|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-2|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-20|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-21|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-22|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-23|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-24|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-25|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-26|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-27|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-28|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-29|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-3|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-30|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-31|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-32|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-33|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-34|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-35|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-36|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-37|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-38|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-39|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-4|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-40|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-41|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-42|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-43|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-44|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-45|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-46|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-47|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-48|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-49|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-5|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-50|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-51|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-52|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-53|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-54|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-55|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-56|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-57|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-58|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-59|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-6|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-60|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-61|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-62|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-63|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-64|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-65|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-66|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-67|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-68|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-69|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-7|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-70|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-71|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-72|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-73|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-74|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-75|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-76|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-77|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-78|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-79|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-8|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-80|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-81|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-82|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-83|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-84|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-85|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-86|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-87|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-88|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-89|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-9|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-90|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-91|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-92|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-93|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-94|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-95|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-96|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-97|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-98|PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-99|PrinterMini.iam:Nema17Stepper:1|PrinterMini.iam:Nema17Stepper:2|PrinterMini.iam:Nema17Stepper:3|PrinterMini.iam:PistonFeederHeadInnerMini:1|PrinterMini.iam:PistonFeederHeadInnerMini:1-2|PrinterMini.iam:PistonFeederHeadInnerMini:1-4|PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY|PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-2|PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-4|PrinterMini.iam:PistonFeederHeadMini:1|PrinterMini.iam:PistonFeederHeadMini:1-3|PrinterMini.iam:PistonFeederHeadMini:1-6|PrinterMini.iam:PistonFeederHeadMini:1_BODY|PrinterMini.iam:PistonFeederHeadMini:1_BODY-1|PrinterMini.iam:PistonFeederHeadMini:1_BODY-10|PrinterMini.iam:PistonFeederHeadMini:1_BODY-11|PrinterMini.iam:PistonFeederHeadMini:1_BODY-12|PrinterMini.iam:PistonFeederHeadMini:1_BODY-13|PrinterMini.iam:PistonFeederHeadMini:1_BODY-14|PrinterMini.iam:PistonFeederHeadMini:1_BODY-15|PrinterMini.iam:PistonFeederHeadMini:1_BODY-16|PrinterMini.iam:PistonFeederHeadMini:1_BODY-17|PrinterMini.iam:PistonFeederHeadMini:1_BODY-2|PrinterMini.iam:PistonFeederHeadMini:1_BODY-3|PrinterMini.iam:PistonFeederHeadMini:1_BODY-4|PrinterMini.iam:PistonFeederHeadMini:1_BODY-5|PrinterMini.iam:PistonFeederHeadMini:1_BODY-6|PrinterMini.iam:PistonFeederHeadMini:1_BODY-7|PrinterMini.iam:PistonFeederHeadMini:1_BODY-8|PrinterMini.iam:PistonFeederHeadMini:1_BODY-9|PrinterMini.iam:PistonFeederHeadMini:2|PrinterMini.iam:PistonFeederHeadMini:2-1|PrinterMini.iam:PistonFeederHeadMini:2-2|PrinterMini.iam:PistonFeederHeadMini:3|PrinterMini.iam:PistonFeederHeadMini:4|PrinterMini.iam:PistonFrameMini:1|PrinterMini.iam:PistonFrameMini:2|PrinterMini.iam:PistonWorkFrameMini:1|PrinterMini.iam:PistonWorkHeadMini:1|PrinterMini.iam:PrinterMini" original_timestamp="1438545763.52" translation_state="2" import_timestamp="1438546339.53" original="C:\Users\myhome\Documents\Inventor\Printer\PrinterMini.iam" unit="cm" object_based="1">
+			<import_setting id="Inventor">
+				<parameter type="string" name="animations_to_import" value="Showcase">
+				</parameter>
+				<parameter type="double" name="create_shots" value="1">
+				</parameter>
+				<parameter type="double" name="import_animations" value="0">
+				</parameter>
+				<parameter type="double" name="import_representations" value="1">
+				</parameter>
+				<parameter type="string" name="project_file" value="">
+				</parameter>
+				<parameter type="string" name="shots_to_create" value="34View|TrackLeft">
+				</parameter>
+				<parameter type="string" name="tessellation_file" value="001-All-Purpose.j">
+				</parameter>
+				<parameter type="string" name="up_axis" value="Auto">
+				</parameter>
+				<parameter type="double" name="use_project_file" value="0">
+				</parameter>
+				<parameter type="double" name="use_steel_settings_on_import" value="0">
+				</parameter>
+			</import_setting>
+		</import>
+	</model_imports>
+	<materials src="materials.adsklib">
+		<material label="170,178,196" id="AB97F18A-7B89-4E34-AAE7-E228646B6B56" name="170,178,196" ids="PrinterMini.iam">
+		</material>
+		<material label="229,234,237" id="A81BFF51-8A2E-489E-9239-FB326186E384" name="229,234,237" ids="PrinterMini.iam">
+		</material>
+		<material label="64,64,64" id="2BBC0F86-CF54-46AA-977A-D93570EABFDF" name="64,64,64" ids="PrinterMini.iam">
+		</material>
+		<material label="64,64,641" id="1E5DA99C-CBF1-4000-A5FA-B7FE1B827E10" name="64,64,641" ids="PrinterMini.iam">
+		</material>
+		<material label="Aluminum - Flat" id="82F4C291-9548-4927-8D6D-13C83D261FFD" name="Aluminum - Flat" ids="PrinterMini.iam">
+		</material>
+		<material label="Default" id="C2DCB4E3-9A89-48E7-B5C3-66CB265AD8F9" name="Default" ids="PrinterMini.iam">
+		</material>
+		<material label="Exposed Aggregate - Coarse" id="4A573A0A-681F-49B2-BE43-5DF5DB2DA7CC" name="Exposed Aggregate - Coarse" ids="PrinterMini.iam">
+		</material>
+		<material label="Galvanized" id="433AF4B1-407B-4A3B-B67B-243D65723722" name="Galvanized" ids="PrinterMini.iam">
+		</material>
+		<material label="Semi-Polished" id="C78D85E0-99B3-4DB7-8C82-3822E63ADD83" name="Semi-Polished" ids="PrinterMini.iam">
+		</material>
+		<material label="Stainless - Brushed" id="32DDC83A-9BC7-4B76-B904-BA4A6272FF44" name="Stainless - Brushed" ids="PrinterMini.iam">
+		</material>
+		<material label="Steel Galvanized" id="6BA83F8F-4594-44BA-9AB0-4DA385439D18" name="Steel Galvanized" ids="PrinterMini.iam">
+		</material>
+	</materials>
+	<material_assignments>
+		<material_assignment visible="" material="Exposed Aggregate - Coarse" target="PrinterMini.iam:BaseMini:1-1">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000015:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000016:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000017:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000018:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000019:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000020:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000021:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000022:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000023:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Aluminum - Flat" target="PrinterMini.iam:8020 Metric  00000024:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,64" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-12">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-18">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-19">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-20">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-21">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-22">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-23">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-24">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-25">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-26">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-28">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-29">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-30">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-31">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-32">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-34">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-35">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-36">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-38">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-39">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-40">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-42">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-43">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-44">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-46">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-47">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-48">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:BallScrew120mm:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:BallScrew120mm:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:BallScrew120mm:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Steel Galvanized" target="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="Semi-Polished" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="Stainless - Brushed" target="PrinterMini.iam:PistonFeederHeadMini:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-50">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,64" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-51">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-53">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-54">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-55">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-56">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-57">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-58">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-59">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-60">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-61">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-62">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-63">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-65">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-66">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-67">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-68">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-69">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-70">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-71">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-72">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-73">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-74">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-75">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-77">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-78">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-79">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-80">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-81">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-83">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-84">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-85">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-87">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-88">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-89">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-91">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-92">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-93">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-95">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-96">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-97">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-99">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,64" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-100">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-102">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-103">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-104">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-105">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-106">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-107">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-108">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-109">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-110">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-111">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-112">
+		</material_assignment>
+		<material_assignment visible="" material="170,178,196" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-114">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-115">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-116">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-117">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-118">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-119">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-120">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-121">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-122">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-123">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-124">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-126">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-127">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-128">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-129">
+		</material_assignment>
+		<material_assignment visible="" material="229,234,237" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-130">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-132">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-133">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-134">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-136">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-137">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-138">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-140">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-141">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-142">
+		</material_assignment>
+		<material_assignment visible="" material="64,64,641" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-144">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-145">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-146">
+		</material_assignment>
+	</material_assignments>
+	<preferences>
+		<preference name="ExposureCompensation" value="2.4">
+		</preference>
+		<preference name="SceneLengthUnit" value="cm">
+		</preference>
+		<preference name="SceneLengthUnitPrecision" value="0">
+		</preference>
+		<preference name="DepthOfFieldFStop" value="8.00000022774">
+		</preference>
+		<preference name="RTPresetNameAuto" value="Ambient Shadow - Interactive">
+		</preference>
+		<preference name="RTPresetNumAuto" value="1">
+		</preference>
+		<preference name="RTPresetFileAuto" value="01-InteractiveAmbientShadow.xml">
+		</preference>
+	</preferences>
+	<triggers>
+	</triggers>
+	<custom_ui>
+	</custom_ui>
+	<hotkeys>
+	</hotkeys>
+	<environments default="BP Gradient.a3e" id="BP Gradient\BP Gradient.a3e" lib="Environments" transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 -34.9675393105 -19.9222105128 -66.0194396973">
+		<environment src="BP Gradient.a3e" name="BP Gradient" lib="Environments" home="HOME" image="BP Gradient.png" id="BP Gradient\BP Gradient.a3e">
+		</environment>
+	</environments>
+	<shots>
+		<shot bloom_size="1" shot_type="ShotStill" bloom_intensity="0.0" thumbnail="shot-Shot1-Keyframe.png" transition_duration="0.0" duration="0.5" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="281.948971867" center_of_interest="-31.021 -20.702 -16.506" fov="20.2097451422" position="230.173 -117.387 -60.38" name="Shot1" depth_of_field_lens_radius="0.0" depth_of_field_focal_distance="0.0" label="Default" depth_of_field_enable="False" bloom_enable="False" isOrtho="True" look_at_point="-31.021 -20.702 -16.506" bloom_threshold="0.0" transition_type="Cut to shot" roll="-1.3746045311" modelId="PrinterMini.iam">
+		</shot>
+		<shot bloom_size="3" shot_type="ShotStill" bloom_intensity="20.0" thumbnail="shot-34View-Keyframe.png" transition_duration="1.0" duration="5.0" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="638.494121349" center_of_interest="-34.9675393105 -19.9222105128 -25.6991606914" fov="26.991" position="-212.797383623 -199.992150371 27.1945876916" name="34View" depth_of_field_lens_radius="0.3125" depth_of_field_focal_distance="300.0" label="3/4 View" depth_of_field_enable="False" bloom_enable="False" isOrtho="False" look_at_point="-34.9675393105 -19.9222105128 -25.6991606914" bloom_threshold="64.0" transition_type="Fade from black into shot" roll="0.0">
+		</shot>
+		<shot orbit_elevation="0.0" fix_look="True" bloom_intensity="20.0" keyframe_type="Start here" transition_duration="1.0" duration="5.0" exposure_compensation="2.36" horizontal_orbit_angle="360.0" fov="26.991" depth_of_field_lens_radius="0.3125" move_type="Track left" lock_tilt="True" depth_of_field_focal_distance="300.0" label="Track Left" depth_of_field_enable="False" bloom_enable="False" bloom_threshold="64.0" roll="0.0" bloom_size="3" shot_type="ShotParametric" position="-212.797383623 -199.992150371 27.1945876916" use_own_camera_properties="False" ortho_distance="638.494121349" distance="129.273339659" name="TrackLeft" center_of_interest="-34.9675393105 -19.9222105128 -25.6991606914" thumbnail="shot-TrackLeft-Keyframe.png" horizontal_orbit_type="Left" isOrtho="False" look_at_point="-34.9675393105 -19.9222105128 -25.6991606914" transition_type="Fade from black into shot" vertical_orbit_type="Up">
+		</shot>
+	</shots>
+	<shadows>
+		<shadow casters="__ALL__" enable="1" name="EnvLightSelfShadow" receivers="__ALL__" light="__EnvironmentMainLight__" receiverType="3" intensity="0.700000" softness="7" shadowColor="0.000000 0.000000 0.000000" textureSize="1024" enableSoftEdges="1" falloffPower="2.000000" shadowType="2" falloffRange="1000.000000">
+		</shadow>
+	</shadows>
+	<bookmarks>
+		<bookmark duration="1.0" name="HOME">
+			<navigation_state center_of_interest="0.0 0.0 0.0" look_at_point="231.64 15.27 64.94" stepper="VectorStep" roll="0.0" position="-337.55 -561.09 234.24">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="1.0" isOrtho="0">
+			</display_state>
+		</bookmark>
+		<bookmark duration="1.0" name="__INITIAL__">
+			<navigation_state center_of_interest="-34.9675393105 -19.9222467524 -25.6991606914" look_at_point="-34.9675393105 -19.9222467524 -25.6991606914" stepper="VectorStep" roll="-3.23937340864e-15" position="113.870675846 -168.760461909 -25.6991606914">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="170.174161282" isOrtho="0">
+			</display_state>
+		</bookmark>
+	</bookmarks>
+	<storyboard current="slide1">
+		<slide duration="0.5" id="slide1" thumbnail="slide-slide1 (1).png" name="Default" modelId="PrinterMini.iam">
+			<slide_item start_time="0.0" type="shot">
+				<value value="Shot1">
+				</value>
+			</slide_item>
+		</slide>
+	</storyboard>
+	<object_properties_collection>
+		<object_properties object="PrinterMini.iam:BaseMini:1-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000015:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000016:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000017:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000018:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000019:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000020:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000021:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000022:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000023:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:8020 Metric  00000024:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:DIN EN 10219-2 - 120 x 60 x 5  - 0.001:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:DIN EN 10219-2 - 120 x 120 x 4  - 100:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-12" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-18" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-19" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-20" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-21" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-22" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-23" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-24" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-25" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-26" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-28" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-29" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-30" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-31" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-32" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-34" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-35" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-36" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-38" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-39" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-40" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-42" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-43" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-44" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-46" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-47" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-48" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:BallScrew120mm:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:BallScrew120mm:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:BallScrew120mm:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:FrameSheetLaserViewportMini:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadInnerMini:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:PistonFeederHeadMini:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-50" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-51" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-53" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-54" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-55" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-56" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-57" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-58" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-59" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-60" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-61" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-62" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-63" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-65" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-66" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-67" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-68" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-69" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-70" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-71" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-72" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-73" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-74" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-75" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-77" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-78" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-79" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-80" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-81" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-83" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-84" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-85" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-87" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-88" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-89" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-91" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-92" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-93" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-95" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-96" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-97" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-99" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-100" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-102" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-103" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-104" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-105" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-106" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-107" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-108" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-109" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-110" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-111" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-112" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-114" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-115" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-116" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-117" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-118" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-119" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-120" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-121" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-122" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-123" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-124" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-126" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-127" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-128" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-129" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-130" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-132" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-133" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-134" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-136" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-137" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-138" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-140" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-141" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-142" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-144" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-145" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="PrinterMini.iam:NEMA 17 Stepper Motor Assembly:1_BODY-146" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+	</object_properties_collection>
+	<metadata_collection>
+	</metadata_collection>
+</scene_description>
